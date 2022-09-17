@@ -28,7 +28,7 @@ jobs:
     - name: Run Tests
       run: |
         python tests/test_with_success.py
-
+        python tests/test_with_error.py
 #      python tests/test_with
 #    - name: Install dependencies
 #      run: |
