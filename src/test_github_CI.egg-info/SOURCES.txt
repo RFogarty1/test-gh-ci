@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.py
+src/test_github_CI/main.py
+src/test_github_CI.egg-info/PKG-INFO
+src/test_github_CI.egg-info/SOURCES.txt
+src/test_github_CI.egg-info/dependency_links.txt
+src/test_github_CI.egg-info/requires.txt
+src/test_github_CI.egg-info/top_level.txt

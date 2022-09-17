@@ -1,0 +1,11 @@
+numpy
+matplotlib
+
+[dev]
+numpy
+matplotlib
+ipyplot
+
+[pinned]
+numpy==1.22.2
+matplotlib==3.5.1
